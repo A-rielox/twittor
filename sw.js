@@ -7,7 +7,7 @@ const INMUTABLE_CACHE = "inmutable-v1";
 
 // APP_SHELL y APP_SHELL_INMUTABLE los separa xlos q son de la app y los archivos q vienen de afuera
 const APP_SHELL = [
-	"/",
+	// "/",		ya publicado no lo pongo
 	"index.html",
 	"css/style.css",
 	"img/favicon.ico",
